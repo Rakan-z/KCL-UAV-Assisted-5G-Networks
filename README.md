@@ -7,7 +7,7 @@
 
 Thesis.pdf
 -
-The thesis report.
+The project report (thesis paper).
 
 FBS_Boundary_search_lin.m
 -
