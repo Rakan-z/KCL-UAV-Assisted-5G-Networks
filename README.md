@@ -17,6 +17,7 @@ The program which includes the algorithm that clusters the GNs using a Piecewise
 
 READMEthesisFinal.md
 -
+A guide to the project files
 
 Simulation_linear_crowd.m
 -
