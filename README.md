@@ -1,4 +1,4 @@
-# BEng-Thesis
+# BEng-Final Year Individual Project
 
 Thesis.pdf
 -
