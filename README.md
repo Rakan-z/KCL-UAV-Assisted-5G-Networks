@@ -7,15 +7,15 @@
 
 Thesis.pdf
 -
-The thesis report.
+The thesis report
 
 FBS_Boundary_search_lin.m
 -
-The program which includes the algorithm that linearly clusters the GNs.
+The program which includes the algorithm that linearly clusters the GNs
 
 FBS_Boundary_search_pw.m
 -
-The program which includes the algorithm that clusters the GNs using a Piecewise defined function.
+The program which includes the algorithm that clusters the GNs using a Piecewise defined function
 
 READMEthesisFinal.md
 -
@@ -23,21 +23,21 @@ A guide to the project files
 
 Simulation_linear_crowd.m
 -
-The program which simulates a multi-cell environment with a flashcrowd and uses the FBS_Boundary_search_lin algorithm to plan the FBS routes.
+The program which simulates a multi-cell environment with a flashcrowd and uses the FBS_Boundary_search_lin algorithm to plan the FBS routes
 
 Simulation_linear.m
 -
-The program which simulates a multi-cell environment and uses the FBS_Boundary_search_lin algorithm to plan the FBS routes.
+The program which simulates a multi-cell environment and uses the FBS_Boundary_search_lin algorithm to plan the FBS routes
 
 Simulation_piecewise_crowd.m
 -
-The program which simulates a multi-cell environment with a flashcrowd and uses the FBS_Boundary_search_pw algorithm to plan the FBS routes.
+The program which simulates a multi-cell environment with a flashcrowd and uses the FBS_Boundary_search_pw algorithm to plan the FBS routes
 
 Simulation_piecewise.m
 -
-The program which simulates a multi-cell environment and uses the FBS_Boundary_search_pw algorithm to plan the FBS routes.
+The program which simulates a multi-cell environment and uses the FBS_Boundary_search_pw algorithm to plan the FBS routes
 
 tspsearch.m
 -
-The 2-opt algorithm used to build the clustering algorithms.
+The 2-opt algorithm used to build the clustering algorithms
 
